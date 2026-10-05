@@ -219,4 +219,4 @@ Paper.io is available as a full free version for Windows, with all features and 
 Ready to conquer your territory? **Download Paper.io now and start your adventure today!**
 
 ---
-**Last updated:** 2026-10-05 15:46:48 UTC
+**Last updated:** 2026-10-05 22:26:53 UTC
